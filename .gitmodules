@@ -1,0 +1,15 @@
+[submodule "TechAnalysisJ"]
+	path = TechAnalysisJ
+	url = git@github.com:ddjohn/TechAnalysisJ.git
+[submodule "TechAnalysis.js"]
+	path = TechAnalysis.js
+	url = git@github.com:ddjohn/TechAnalysis.js.git
+[submodule "capstore"]
+	path = capstore
+	url = git@github.com:ddjohn/capstore.git
+[submodule "dajocloud"]
+	path = dajocloud
+	url = git@github.com:ddjohn/dajocloud.git
+[submodule "AndroidScrubber"]
+	path = AndroidScrubber
+	url = git@github.com:ddjohn/AndroidScrubber.git
