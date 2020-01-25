@@ -13,3 +13,6 @@
 [submodule "AndroidScrubber"]
 	path = AndroidScrubber
 	url = git@github.com:ddjohn/AndroidScrubber.git
+[submodule "minidash"]
+	path = minidash
+	url = git@github.com:ddjohn/minidash.git
