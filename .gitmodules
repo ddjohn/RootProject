@@ -16,3 +16,6 @@
 [submodule "minidash"]
 	path = minidash
 	url = git@github.com:ddjohn/minidash.git
+[submodule "systembolagd"]
+	path = systembolagd
+	url = ./systembolagd/
