@@ -19,3 +19,6 @@
 [submodule "systembolagd"]
 	path = systembolagd
 	url = ./systembolagd/
+[submodule "blackduck-api.js"]
+	path = blackduck-api.js
+	url = ./blackduck-api.js
