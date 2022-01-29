@@ -22,3 +22,6 @@
 [submodule "blackduck-api.js"]
 	path = blackduck-api.js
 	url = git@github.com:ddjohn/blackduck-api.js
+[submodule "stock-dashboard"]
+	path = stock-dashboard
+	url = git@github.com:ddjohn/stock-dashboard
