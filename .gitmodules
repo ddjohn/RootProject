@@ -18,7 +18,7 @@
 	url = git@github.com:ddjohn/minidash.git
 [submodule "systembolagd"]
 	path = systembolagd
-	url = ./systembolagd/
+	url = git@github.com:ddjohn/systembolagd
 [submodule "blackduck-api.js"]
 	path = blackduck-api.js
-	url = ./blackduck-api.js
+	url = git@github.com:ddjohn/blackduck-api.js
