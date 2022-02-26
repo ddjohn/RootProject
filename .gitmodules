@@ -25,3 +25,6 @@
 [submodule "stock-dashboard"]
 	path = stock-dashboard
 	url = git@github.com:ddjohn/stock-dashboard
+[submodule "prope"]
+	path = prope
+	url = git@github.com:ddjohn/probe.git
