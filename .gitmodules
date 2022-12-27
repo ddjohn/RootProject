@@ -28,3 +28,6 @@
 [submodule "probe"]
 	path = probe
 	url = git@github.com:ddjohn/probe.git
+[submodule "AtomStockDashboard"]
+	path = AtomStockDashboard
+	url = https://github.com/ddjohn/AtomStockDashboard.git
